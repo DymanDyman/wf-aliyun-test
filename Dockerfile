@@ -1,1 +1,1 @@
-FROM gcr.io/cadvisor/cadvisor-amd64:v0.47.0
+FROM mysql:5.7.30
